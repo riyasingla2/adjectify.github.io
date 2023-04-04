@@ -1,0 +1,56 @@
+body 
+{background: #FFF6EE; }
+
+div 
+{
+margin-top: 225px;}
+
+#random
+{padding: 12px;
+background-color: #000F3C;
+color: white;
+font-size: 15px;
+border:  none;
+margin-left: 20px;
+
+}
+
+#link 
+
+{ 
+	float: right;
+	margin-top: 200px;
+	margin-right: 50px;
+color: #000F3C;
+font-weight: bold;
+text-decoration: none;
+
+ }
+
+#submit 
+{ padding: 12px;
+background-color: #000F3C;
+color: white;
+font-size: 15px;
+border:  none;
+margin: right:20px; }
+
+#word 
+{ 
+background-color: #FFF6EE;
+border:none;
+border-bottom: 1px solid black;  
+width: 200px;
+height: 47px;
+font-size: 30px;
+color: darkgoldenrod;
+font-weight: bold;}
+
+p 
+{color: black;
+font-weight: bold;
+font-size: 30px;
+}
+
+body 
+{color: black;}
